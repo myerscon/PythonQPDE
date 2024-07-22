@@ -9,7 +9,7 @@ from math import pi
 from pde import PDE, CartesianGrid, MemoryStorage, ScalarField, plot_kymograph, plot_kymographs, PDEBase, FieldCollection, UnitGrid
 
 # User supplied parameters
-N = 50
+N = 400
 directory_name = 'output_PyPDE_2T/T_amb=01/N='+str(N)
 showfig = False
 output_times = [0.0,0.005,0.01,0.02,0.04,0.08,0.12,0.16]
