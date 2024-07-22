@@ -1,7 +1,7 @@
 # PythonQPDE
 Quantum Partial Differential Equation (QPDE) solver implemented in Python.
 
-Python Quantum Partial Differential Equations (QPDE) solver for solving a set of coupled PDEs. The Python packages NumPy, SciPy, and SymPy are required. 
+This is a Quantum Partial Differential Equations (QPDE) solver for solving a set of coupled PDEs. The Python packages NumPy, SciPy, and SymPy are required. 
 The Python package PyPDE is required to run the PyPDE_2T.py script. The current input files are for problems modeling the nonlinear radiation diffusion equations 
 in one dimension. However, the input script can be modified to solve any desired set of PDEs in one-dimension (within reason).
 
